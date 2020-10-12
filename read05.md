@@ -16,3 +16,5 @@
     * because the image would be either stretched. or will be longer to be displayed.
   3. Use the correct resolution:
     * choose the correct number of pixels that would be used in the images.
+* When a picture has an area that is filledwith exactly the same color, it is known as flat color.
+* THe best way of cropping an image is to change the dimensions or keep them on a size where the image in the *portarait* or *Lnadscape* whiech are a methods of croping involves the important shapes that should be shownand ignore any addintial extra area spaces.
